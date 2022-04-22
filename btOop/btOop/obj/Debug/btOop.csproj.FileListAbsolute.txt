@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\btOop\btOop\bin\Debug\btOop.exe.config
+C:\Users\ADMIN\source\repos\btOop\btOop\bin\Debug\btOop.exe
+C:\Users\ADMIN\source\repos\btOop\btOop\bin\Debug\btOop.pdb
+C:\Users\ADMIN\source\repos\btOop\btOop\obj\Debug\btOop.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\btOop\btOop\obj\Debug\btOop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\btOop\btOop\obj\Debug\btOop.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\btOop\btOop\obj\Debug\btOop.exe
+C:\Users\ADMIN\source\repos\btOop\btOop\obj\Debug\btOop.pdb
